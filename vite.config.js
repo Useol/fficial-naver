@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/fficial-naver/',
   build: {
-    outDir: 'dist', // 빌드 결과물을 docs 폴더로 지정
+    outDir: 'docs', // 빌드 결과물을 docs 폴더로 지정
   },
 })
