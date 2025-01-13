@@ -1,8 +1,28 @@
-# React + Vite
+# Official-Naver Clone (React 연습 프로젝트)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+이 프로젝트는 **비상업적** React 연습 프로젝트로, 네이버 공식 웹사이트를 참고하여 제작되었습니다.  
+오직 학습 목적으로만 사용되며, **저작권을 침해할 의도가 전혀 없음을 밝힙니다.**
 
-Currently, two official plugins are available:
+## 프로젝트 설명
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+이 저장소는 React 개발 연습을 위해 네이버 공식 웹사이트를 모방한 프로젝트를 포함하고 있습니다. 이 프로젝트의 목적은 다음과 같습니다:
+
+- React 컴포넌트, 상태 관리, 훅(Hooks) 연습
+- 현대적인 프론트엔드 개발 기법 이해
+- React 프로젝트 구조 설계 및 디자인 학습
+
+### 알림
+
+1. **비상업적 사용**  
+   이 프로젝트는 개인 학습 및 교육 목적으로만 사용됩니다. 상업적인 용도로는 절대 사용되지 않습니다.
+
+2. **네이버와의 무관함**  
+   이 프로젝트는 네이버 주식회사와 아무런 관련이 없으며, 네이버의 승인이나 지원을 받지 않았습니다.  
+   네이버의 상표, 로고, 디자인에 대한 모든 권리는 네이버 주식회사에 있습니다.
+
+3. **콘텐츠 사용 관련**  
+   프로젝트 내에서 네이버 웹사이트를 참고한 콘텐츠(이미지, 텍스트 등)는 오직 학습 및 모방 연습을 위한 용도로 사용되었습니다. 네이버의 원본 자산은 직접적으로 사용되지 않았습니다.
+
+### 오픈소스로 공개하는 이유
+
+- github내 page기능을 사용하기 위함
