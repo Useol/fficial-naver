@@ -1,4 +1,4 @@
-# Official-Naver Clone (React 연습 프로젝트)
+# Official-Naver Clone (React 연습 프로젝트)test
 
 이 프로젝트는 **비상업적** React 연습 프로젝트로, 네이버 공식 웹사이트를 참고하여 제작되었습니다.  
 오직 학습 목적으로만 사용되며, **저작권을 침해할 의도가 전혀 없음을 밝힙니다.**
